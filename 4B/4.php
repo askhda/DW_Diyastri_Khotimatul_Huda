@@ -156,7 +156,7 @@ if (!$conn) {
 	<!---- Footer ----->
 	<footer>
 		<center>
-			&copy; 2021, Portal Cerita Oleh Diyastri Khotimatul Huda
+			&copy; 2021, Oleh Diyastri Khotimatul Huda
 		</center>
 	</footer>
 
